@@ -13,7 +13,7 @@ Python mini project, team of 2 | Aug 2026
 ## Features
 - Telegram bot that accepts a destination as a stop name or number
 - Keypad input to simulate 6 bus stops
-- LCD display of the current stop and the "Your stop is next!" alert
+- LCD display of the current stop and the "Your stop is reaching" alert
 - Voice announcement of each stop through wired earphones
 - Works for more than one rider at the same time, each with their own destination
 
