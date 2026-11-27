@@ -33,8 +33,8 @@ Jurong East, Clementi, SP, Buona Vista, Commonwealth, Queenstown
 - gTTS and pygame (voice announcements)
 
 ## Files
-- `[main.py]`: the Raspberry Pi side (keypad, LCD, audio) and the Telegram alert logic
-- `[gps_demo.py]`: the GPS demo, built by my partner
+- `maincode.py`: the Raspberry Pi side (keypad, LCD, audio) and the Telegram alert logic
+- `gps.py`: the GPS demo, built by my partner
 - `audio/`: voice announcement files for each stop
 
 ## Team
